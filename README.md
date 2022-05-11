@@ -21,7 +21,8 @@ sorting two stacks with commands :
   The last element becomes the first one.
   RRR : rra and rrb at the same time.
   ```
-  # start:
-  ```bash
-  ./push_swap [any number of arguments]
-  ```
+# start:
+```bash
+make
+./push_swap [any number of arguments]
+```
