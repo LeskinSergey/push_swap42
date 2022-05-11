@@ -1,5 +1,5 @@
 # push_swap42
-``bash
+```bash
 sorting two stacks with commands :
   sa (swap a): Swap the first 2 elements at the top of stack a.
   Do nothing if there is only one or no elements.
@@ -21,7 +21,7 @@ sorting two stacks with commands :
   The last element becomes the first one.
   rrr : rra and rrb at the same time.
   ```
-  #start:
+  # start:
   ```bash
   ./push_swap [any number of arguments]
   ```
